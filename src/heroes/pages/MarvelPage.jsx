@@ -4,7 +4,7 @@ import { useLocation } from "react-router-dom";
 
 export const MarvelPage = () => {
   // const location = useLocation();
-  // console.log(location);
+  console.log("");
   return (
     <>
       <h1>MarvelPage</h1>
